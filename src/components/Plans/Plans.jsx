@@ -1,7 +1,7 @@
 import React from 'react'
 import'./Plans.css'
 import {plansData} from '../../data/plansData'
-import whitetick from '../../assets/whitetick.png'
+import whitetick from '../../assets/whiteTick.png'
 
 const Plans = () => {
   return (
