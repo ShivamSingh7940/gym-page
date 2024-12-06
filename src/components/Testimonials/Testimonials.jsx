@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./Testimonials.css";
 import { testimonialsData } from "../../data/testimonialsData";
 import leftArrow from '../../assets/leftArrow.png'
-import RightArrow from '../../assets/RightArrow.png'
+import RightArrow from '../../assets/rightArrow.png'
 import {motion} from 'framer-motion'
 
 const Testimonials = () => {
